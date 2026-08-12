@@ -1,2 +1,5 @@
 .env
-.venv
+.venv/
+data/csmarket_api_keys.txt
+data/proxy.txt
+maFiles/
