@@ -4,3 +4,7 @@ data/csmarket_api_keys.txt
 data/proxy.txt
 maFiles/
 .vscode/
+mafile.py
+mafile_contents.txt
+data/
+node_modules/
